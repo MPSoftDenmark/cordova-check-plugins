@@ -269,6 +269,14 @@ For example, to automatically update installed plugins to match versions specifi
         abort_on_error="true"
     />
 
+
+
+# snip examples etc.
+
+cordova-check-plugins --remove-all --save
+
+
+
 License
 ================
 
